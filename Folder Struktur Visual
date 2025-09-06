@@ -1,0 +1,66 @@
+MuaroJambi_Project/
+│
+├── 01_Proposal/
+│   ├── Proposal_Kanal_MuaraJambi.docx
+│   ├── Proposal_Kanal_MuaraJambi.pdf
+│   └── Notes/
+│       └── catatan.txt
+│
+├── 02_Data/
+│   ├── LiDAR_Raw/
+│   ├── DEM/
+│   │   ├── DTM/
+│   │   └── DSM/
+│   ├── LRM/
+│   │   ├── LRM_10m/
+│   │   ├── LRM_30m/
+│   │   ├── LRM_60m/
+│   │   ├── TPI/
+│   │   ├── TRI/
+│   │   └── Curvature/
+│   ├── Hydrology/
+│   │   ├── FlowDirection/
+│   │   ├── FlowAccumulation/
+│   │   ├── Watershed/
+│   │   ├── Kanal/
+│   │   └── Reservoir/
+│   ├── Vegetation/
+│   │   ├── NDVI/
+│   │   └── CanopyHeight/
+│   └── Other_Sensor/
+│
+├── 03_Scripts/
+│   ├── ArcPy/
+│   ├── Python/
+│   └── Notebooks/
+│
+├── 04_References/
+│   ├── Jurnal/
+│   ├── Konferensi/
+│   ├── Grey_Literature/
+│   └── Bibliography/
+│
+├── 05_Results/
+│   ├── Maps/
+│   ├── Figures/
+│   ├── Tables/
+│   └── Reports/
+│
+├── 06_Fieldwork/
+│   ├── Photos/
+│   ├── GPS_Data/
+│   └── Notes/
+│
+├── 07_Meeting/
+│   ├── BalaiArkeologi/
+│   ├── UniversitasJambi/
+│   └── ResearchGate/
+│
+├── 08_Docs/
+│   ├── README.txt
+│   └── Instructions.txt
+│
+└── 09_Backup/
+    ├── LiDAR/
+    ├── DEM/
+    └── Scripts/
